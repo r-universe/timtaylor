@@ -1,5 +1,11 @@
 [
   {
     "package": "regplateR"
+  },
+  {
+    "package": "testCommits"
+  },
+  {
+    "package": "testUniverse"
   }
 ]
