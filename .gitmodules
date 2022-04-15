@@ -7,15 +7,5 @@
 	path = regplateR
 	url = https://git.sr.ht/~htgb/regplateR
 	shallow = true
-	registered = true
-[submodule "testCommits"]
-	path = testCommits
-	url = https://github.com/timtaylor/testCommits
-	shallow = true
-	branch = 1c78e2401f2113559fb6f718523c059b029f2b5d
-	registered = true
-[submodule "testUniverse"]
-	path = testUniverse
-	url = https://github.com/timtaylor/testUniverse
-	shallow = true
+	subdir = pkg
 	registered = true
