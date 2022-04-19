@@ -9,3 +9,8 @@
 	shallow = true
 	subdir = pkg
 	registered = true
+[submodule "surveyTools"]
+	path = surveyTools
+	url = https://github.com/timtaylor/surveyTools
+	shallow = true
+	registered = true
