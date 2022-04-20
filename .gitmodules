@@ -20,3 +20,8 @@
 	url = https://github.com/timtaylor/surveyTools
 	shallow = true
 	registered = true
+[submodule "NHSmod11"]
+	path = NHSmod11
+	url = https://github.com/timtaylor/NHSmod11
+	shallow = true
+	registered = true

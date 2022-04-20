@@ -8,5 +8,8 @@
   },
   {
     "package": "surveyTools"
+  },
+  {
+    "package": "NHSmod11"
   }
 ]
