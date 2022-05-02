@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "regplateR"]
 	path = regplateR
-	url = https://git.sr.ht/~htgb/regplateR
+	url = https://github.com/TimTaylor/regplateR
 	shallow = true
 	subdir = pkg
 	registered = true
