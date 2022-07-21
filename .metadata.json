@@ -1,15 +1,5 @@
 [
   {
-    "package": "regplateR"
-  },
-  {
-    "package": "coffee",
-    "oncran": false
-  },
-  {
     "package": "surveyTools"
-  },
-  {
-    "package": "NHSmod11"
   }
 ]
