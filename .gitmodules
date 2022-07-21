@@ -8,3 +8,8 @@
 	url = https://github.com/TimTaylor/surveyTools
 	shallow = true
 	registered = true
+[submodule "ympes"]
+	path = ympes
+	url = https://github.com/TimTaylor/ympes
+	shallow = true
+	registered = true
