@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "surveyTools"]
 	path = surveyTools
-	url = https://github.com/TimTaylor/surveyTools
+	url = https://github.com/TimTaylor/qalytools
 	shallow = true
 	registered = true
 [submodule "ympes"]
