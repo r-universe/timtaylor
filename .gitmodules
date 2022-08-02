@@ -3,13 +3,8 @@
 	url = https://github.com/timtaylor/universe
 	shallow = true
 	branch = HEAD
-[submodule "surveyTools"]
-	path = surveyTools
+[submodule "qalytools"]
+	path = qalytools
 	url = https://github.com/TimTaylor/qalytools
-	shallow = true
-	registered = true
-[submodule "ympes"]
-	path = ympes
-	url = https://github.com/TimTaylor/ympes
 	shallow = true
 	registered = true
