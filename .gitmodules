@@ -2,6 +2,3 @@
 	path = .registry
 	url = https://github.com/timtaylor/timtaylor.r-universe.dev
 	branch = HEAD
-[submodule "ympes"]
-	path = ympes
-	url = https://git.sr.ht/~tim-taylor/ympes
