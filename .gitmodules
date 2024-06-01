@@ -7,4 +7,4 @@
 	url = https://github.com/timtaylor/ageutils
 [submodule "ympes"]
 	path = ympes
-	url = https://github.com/timtaylor/ympes
+	url = https://github.com/cran/ympes
