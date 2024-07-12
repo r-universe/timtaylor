@@ -1,0 +1,10 @@
+{
+  "id": 52755324,
+  "created_at": "2024-07-12T20:20:17.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["lintrall"]
+}
