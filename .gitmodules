@@ -8,6 +8,9 @@
 [submodule "grates"]
 	path = grates
 	url = https://github.com/reconverse/grates
+[submodule "i2extras"]
+	path = i2extras
+	url = https://github.com/reconverse/i2extras
 [submodule "incidence2"]
 	path = incidence2
 	url = https://github.com/reconverse/incidence2
