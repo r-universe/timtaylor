@@ -5,6 +5,9 @@
 [submodule "ageutils"]
 	path = ageutils
 	url = https://github.com/TimTaylor/ageutils
+[submodule "grates"]
+	path = grates
+	url = https://github.com/reconverse/grates
 [submodule "lintrall"]
 	path = lintrall
 	url = https://github.com/TimTaylor/lintrall
