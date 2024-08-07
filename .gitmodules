@@ -9,3 +9,6 @@
 	path = lintrall
 	url = https://github.com/TimTaylor/lintrall
 	subdir = pkg
+[submodule "ympes"]
+	path = ympes
+	url = https://github.com/TimTaylor/ympes
