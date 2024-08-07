@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/timtaylor/timtaylor.r-universe.dev
 	branch = HEAD
+[submodule "ageutils"]
+	path = ageutils
+	url = https://github.com/TimTaylor/ageutils
 [submodule "lintrall"]
 	path = lintrall
 	url = https://github.com/TimTaylor/lintrall
