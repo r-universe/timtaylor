@@ -18,6 +18,9 @@
 	path = lintrall
 	url = https://github.com/TimTaylor/lintrall
 	subdir = pkg
+[submodule "super"]
+	path = super
+	url = https://github.com/TimTaylor/super
 [submodule "ympes"]
 	path = ympes
 	url = https://github.com/TimTaylor/ympes
