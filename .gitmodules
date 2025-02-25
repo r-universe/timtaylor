@@ -8,6 +8,7 @@
 [submodule "grates"]
 	path = grates
 	url = https://github.com/reconverse/grates
+	subdir = pkg
 [submodule "i2extras"]
 	path = i2extras
 	url = https://github.com/reconverse/i2extras
@@ -21,6 +22,7 @@
 [submodule "super"]
 	path = super
 	url = https://github.com/TimTaylor/super
+	subdir = pkg
 [submodule "ympes"]
 	path = ympes
 	url = https://github.com/TimTaylor/ympes
