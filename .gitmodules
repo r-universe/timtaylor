@@ -5,24 +5,7 @@
 [submodule "ageutils"]
 	path = ageutils
 	url = https://github.com/TimTaylor/ageutils
-[submodule "grates"]
-	path = grates
-	url = https://github.com/reconverse/grates
-	subdir = pkg
-[submodule "i2extras"]
-	path = i2extras
-	url = https://github.com/reconverse/i2extras
-[submodule "incidence2"]
-	path = incidence2
-	url = https://github.com/reconverse/incidence2
 [submodule "lintrall"]
 	path = lintrall
 	url = https://github.com/TimTaylor/lintrall
 	subdir = pkg
-[submodule "super"]
-	path = super
-	url = https://github.com/TimTaylor/super
-	subdir = pkg
-[submodule "ympes"]
-	path = ympes
-	url = https://github.com/TimTaylor/ympes
