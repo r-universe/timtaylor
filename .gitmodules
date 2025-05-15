@@ -2,10 +2,18 @@
 	path = .registry
 	url = https://github.com/timtaylor/timtaylor.r-universe.dev
 	branch = HEAD
+[submodule "dust2"]
+	path = dust2
+	url = https://github.com/mrc-ide/dust2
+	registered = false
 [submodule "lintrall"]
 	path = lintrall
 	url = https://github.com/TimTaylor/lintrall
 	subdir = pkg
+[submodule "monty"]
+	path = monty
+	url = https://github.com/mrc-ide/monty
+	registered = false
 [submodule "odin2test"]
 	path = odin2test
 	url = https://github.com/TimTaylor/odin2test
