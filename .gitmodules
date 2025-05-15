@@ -2,10 +2,11 @@
 	path = .registry
 	url = https://github.com/timtaylor/timtaylor.r-universe.dev
 	branch = HEAD
-[submodule "ageutils"]
-	path = ageutils
-	url = https://github.com/TimTaylor/ageutils
 [submodule "lintrall"]
 	path = lintrall
 	url = https://github.com/TimTaylor/lintrall
+	subdir = pkg
+[submodule "odin2test"]
+	path = odin2test
+	url = https://github.com/TimTaylor/odin2test
 	subdir = pkg
