@@ -18,3 +18,6 @@
 	path = odin2test
 	url = https://github.com/TimTaylor/odin2test
 	subdir = pkg
+[submodule "yp"]
+	path = yp
+	url = https://github.com/TimTaylor/tp
