@@ -18,6 +18,9 @@
 	path = odin2test
 	url = https://github.com/TimTaylor/odin2test
 	subdir = pkg
-[submodule "yp"]
-	path = yp
+[submodule "qalytools"]
+	path = qalytools
+	url = https://github.com/TimTaylor/qalytools
+[submodule "tp"]
+	path = tp
 	url = https://github.com/TimTaylor/tp
