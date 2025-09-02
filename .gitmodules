@@ -21,6 +21,10 @@
 [submodule "qalytools"]
 	path = qalytools
 	url = https://github.com/TimTaylor/qalytools
+[submodule "ronfig"]
+	path = ronfig
+	url = https://codeberg.org/TimTaylor/ronfig
+	subdir = pkg
 [submodule "tp"]
 	path = tp
 	url = https://github.com/TimTaylor/tp
