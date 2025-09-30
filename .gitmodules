@@ -18,6 +18,10 @@
 	path = odin2test
 	url = https://github.com/TimTaylor/odin2test
 	subdir = pkg
+[submodule "pipeline"]
+	path = pipeline
+	url = https://codeberg.org/TimTaylor/pipeline
+	subdir = pkg
 [submodule "qalytools"]
 	path = qalytools
 	url = https://github.com/TimTaylor/qalytools
