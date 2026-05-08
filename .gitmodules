@@ -13,6 +13,7 @@
 [submodule "pipeline"]
 	path = pipeline
 	url = https://codeberg.org/TimTaylor/pipeline
+	branch = v0.0.0.9164
 	subdir = pkg
 [submodule "qalytools"]
 	path = qalytools
